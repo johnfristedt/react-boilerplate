@@ -1,8 +1,8 @@
 {
-  "name": "redux-webpack-es6-boilerplate",
-  "description": "A starter project for modern React apps with Redux",
+  "name": "test2",
+  "description": "Testing this out",
   "version": "0.7.1",
-  "author": "Nick S. Plekhanov <nick.plekhanov@gmail.com>",
+  "author": "John Fristedt <john@kodalagom.se>",
   "license": "MIT",
   "keywords": [
     "react",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nicksp/redux-webpack-es6-boilerplate.git"
+    "url": "https://github.com/johnfristedt/react-test.git"
   },
   "bugs": "https://github.com/nicksp/redux-webpack-es6-boilerplate/issues",
   "scripts": {
